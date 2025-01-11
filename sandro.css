@@ -1,0 +1,45 @@
+.div1{
+    border: 5px solid green;
+    padding: 10px;
+}
+h2{
+    border: 5px dashed pink;
+    background-color: rgb(0, 255, 0);
+    padding: 7px;
+}
+.div2{
+    border: 5px dashed red;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: rgb(219, 121, 104);
+    display: flex ;
+    justify-content: center;
+}
+p{
+    border: 5px solid red;
+    border-radius: 5px;
+    background-color: black;
+    color: gold;
+}
+.div3{
+    border: 5px dotted green;
+    display: flex;
+    justify-content: right;
+}
+ul{
+    background-color: blueviolet;
+    border: 5px dashed red;
+    padding: 20px;
+}
+.div4{
+    border: 5px solid blue;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+
+}
+img{
+
+    border: 5px dashed red;
+    border-radius: 15px;
+}
